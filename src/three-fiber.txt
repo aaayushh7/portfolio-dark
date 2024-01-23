@@ -1,5 +1,4 @@
-/*
-  
+
 
 
 import useSpline from '@splinetool/r3f-spline'
